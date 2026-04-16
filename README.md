@@ -1,2 +1,3 @@
-# FINANCIAL-AND-RISK-MODELLING-
-FINANCIAL AND RISK MODELLING ANALYSIS BY COMPARING THE 4 STOCKS 
+# Financial Risk Model
+
+Project structure for financial and risk modelling.

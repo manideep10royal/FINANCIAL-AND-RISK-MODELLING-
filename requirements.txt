@@ -1,0 +1,12 @@
+pandas
+numpy
+yfinance
+matplotlib
+seaborn
+scipy
+statsmodels
+arch
+scikit-learn
+requests
+beautifulsoup4
+streamlit
