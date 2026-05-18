@@ -134,8 +134,6 @@ This executes:
 ---
 
 ## 🔥 Future Enhancements
-
-* ✅ Monte Carlo Simulation
 * ✅ Value at Risk (VaR) & CVaR
 * ✅ Multi-asset portfolio optimization
 * ✅ Real-time trading signals
